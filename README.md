@@ -56,6 +56,14 @@ Built on **The Progression Loop**, the portfolio's shared retention framework
 | Next step | The next plan after 5K |
 | Cadence | 3 times a week |
 
+## Animation and tone
+
+**Playful.** Celebrations, confetti, cute characters, satisfying sounds and mild comic reactions. Nothing tragic.
+
+- Finish-line burst and a badge after a run
+
+**Line we don't cross:** Nothing animated during the run except the essentials.
+
 ## AI
 
 **None.** Not needed. Plain code does everything this app does.
