@@ -2,7 +2,7 @@
 
 **From couch to consistent**
 
-> #32 of 33 in the build order · Harder · Revenue potential: Medium · Habits, Health & Learning
+> #24 of 33 · Wave 2: Recurring keepers · Used: 3 times a week · Harder · Revenue potential: Medium · Habits, Health & Learning
 
 ## What it is
 
@@ -55,6 +55,10 @@ Built on **The Progression Loop**, the portfolio's shared retention framework
 | Share | Run cards |
 | Next step | The next plan after 5K |
 | Cadence | 3 times a week |
+
+## AI
+
+**None.** Not needed. Plain code does everything this app does.
 
 ## Watch-outs
 
