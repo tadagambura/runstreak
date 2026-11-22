@@ -1,6 +1,6 @@
 # RunStreak: Spec
 
-**From couch to consistent** · #23 of 32 · Wave 2: Recurring keepers · Used: 3 times a week · Harder · Revenue potential: Medium · Habits, Health & Learning · Source: Perplexity
+**From couch to consistent** · #23 of 31 · Wave 2: Recurring keepers · Used: 3 times a week · Harder · Revenue potential: Medium · Habits, Health & Learning · Source: Perplexity
 
 ## One-liner
 
