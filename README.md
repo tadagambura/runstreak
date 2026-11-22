@@ -58,11 +58,15 @@ Built on **The Progression Loop**, the portfolio's shared retention framework
 | Next step | The next plan after 5K |
 | Cadence | 3 times a week |
 
-## Animation and tone
+## Animation and tone: five signature animations
 
 **Playful.** Celebrations, confetti, cute characters, satisfying sounds and mild comic reactions. Nothing tragic.
 
-- Finish-line burst and a badge after a run
+- Run finished: the finish tape snaps and confetti flies
+- Planned rest day: the stickman on the sofa with ice packs, streak frozen
+- Run/walk switch: he waddles comically on the walk intervals
+- Personal best: he runs so fast he leaves a dust cloud
+- 5K done: a medal drops and he bites it
 
 **Line we don't cross:** Nothing animated during the run except the essentials.
 
