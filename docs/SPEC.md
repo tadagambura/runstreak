@@ -34,7 +34,7 @@ A beginner-friendly run and walk-run tracker: GPS distance and pace, run/walk in
 | Premium | £4.99/month: all plans, advanced stats, custom intervals |
 | Ads | Never during a run |
 
-Prices are starting points; test before committing.
+Prices are starting points; test before committing. **Portfolio premium promise:** free has ads; the moment you pay you get no ads, cloud backup and storage, and sync across your devices, plus this app's extras.
 
 ## Retention: The Progression Loop
 
@@ -67,6 +67,7 @@ cheapest model, shared budget cap, premium-gated.)
 
 - **Platform:** Expo native build (background GPS).
 - **Data:** On the device only.
+- **Backend:** None for the free version: everything lives on the phone. Premium backup and sync use the shared portfolio backend (see the master repo's HOSTING.md).
 - **Stack:** shared portfolio foundation (Expo, PostHog, RevenueCat, AdMob, shared Progression Loop module).
 
 ## Growth engine
